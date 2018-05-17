@@ -1,2 +1,2 @@
-# cmps211
+# cmps211 - Internet Programming and Web Design
 Introduction to internet programming using HTML and JavaScript or other  scripting language. The course is intended for students with no  programming experience.  Students will learn the concepts of structured  programming and control structures. They will become familiar with HTML  interfaces by designing interactive web sites. This course may be used  as an elective in the CIS track. Prerequisite: None.
